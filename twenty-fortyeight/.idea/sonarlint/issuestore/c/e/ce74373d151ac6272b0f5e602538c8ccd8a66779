@@ -1,0 +1,17 @@
+
+…
+java:S4165y"hRemove this useless assignment; "currentCol" already holds the assigned value along all execution paths.(µÁñğ8šõÇÙê1
+…
+java:S4165s"hRemove this useless assignment; "currentCol" already holds the assigned value along all execution paths.(µÁñğ8™õÇÙê1
+;
+java:S2119¯"Save and re-use this "Random".(¼İÅf8ÄµŞØê1
+;
+java:S2119Î"Save and re-use this "Random".(¼İÅf8ÇµŞØê1
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8¶õÇÙê1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¶õÇÙê1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶õÇÙê1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¶õÇÙê1
