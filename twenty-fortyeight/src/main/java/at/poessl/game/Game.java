@@ -10,6 +10,8 @@ public class Game {
 	
 	private int points;
 	
+	private boolean log;
+	
 	public Game() {
 		this.grid = new Grid();
 		this.fillEmptyCell();
@@ -102,5 +104,13 @@ public class Game {
 
 	public int getPoints() {
 		return points;
+	}
+
+	public void setLog(boolean log) {
+		this.log = log;
+	}
+
+	public boolean isLog() {
+		return log;
 	}
 }

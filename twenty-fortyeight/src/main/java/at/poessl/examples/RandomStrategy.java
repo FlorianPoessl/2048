@@ -20,6 +20,6 @@ public class RandomStrategy implements Strategy {
 		case 3:
 			return Move.DOWN;
 		}
-		return Move.UP
+		return Move.UP;
 	}
 }
